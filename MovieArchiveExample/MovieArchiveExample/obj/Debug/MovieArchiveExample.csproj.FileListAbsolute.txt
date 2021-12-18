@@ -1,0 +1,10 @@
+C:\C# Exapmles\MovieArchiveExample\MovieArchiveExample\bin\Debug\MovieArchiveExample.exe.config
+C:\C# Exapmles\MovieArchiveExample\MovieArchiveExample\bin\Debug\MovieArchiveExample.exe
+C:\C# Exapmles\MovieArchiveExample\MovieArchiveExample\bin\Debug\MovieArchiveExample.pdb
+C:\C# Exapmles\MovieArchiveExample\MovieArchiveExample\obj\Debug\MovieArchiveExample.csproj.AssemblyReference.cache
+C:\C# Exapmles\MovieArchiveExample\MovieArchiveExample\obj\Debug\MovieArchiveExample.Form1.resources
+C:\C# Exapmles\MovieArchiveExample\MovieArchiveExample\obj\Debug\MovieArchiveExample.Properties.Resources.resources
+C:\C# Exapmles\MovieArchiveExample\MovieArchiveExample\obj\Debug\MovieArchiveExample.csproj.GenerateResource.cache
+C:\C# Exapmles\MovieArchiveExample\MovieArchiveExample\obj\Debug\MovieArchiveExample.csproj.CoreCompileInputs.cache
+C:\C# Exapmles\MovieArchiveExample\MovieArchiveExample\obj\Debug\MovieArchiveExample.exe
+C:\C# Exapmles\MovieArchiveExample\MovieArchiveExample\obj\Debug\MovieArchiveExample.pdb
